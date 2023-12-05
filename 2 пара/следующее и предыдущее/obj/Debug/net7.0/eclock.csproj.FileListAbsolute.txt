@@ -1,0 +1,14 @@
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\bin\Debug\net7.0\eclock.exe
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\bin\Debug\net7.0\eclock.deps.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\bin\Debug\net7.0\eclock.runtimeconfig.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\bin\Debug\net7.0\eclock.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\bin\Debug\net7.0\eclock.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\refint\eclock.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\eclock.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\eclock\obj\Debug\net7.0\ref\eclock.dll

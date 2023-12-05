@@ -1,0 +1,14 @@
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\bin\Debug\net7.0\real_symbols.exe
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\bin\Debug\net7.0\real_symbols.deps.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\bin\Debug\net7.0\real_symbols.runtimeconfig.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\bin\Debug\net7.0\real_symbols.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\bin\Debug\net7.0\real_symbols.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\refint\real_symbols.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\real_symbols.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\real_symbols\obj\Debug\net7.0\ref\real_symbols.dll

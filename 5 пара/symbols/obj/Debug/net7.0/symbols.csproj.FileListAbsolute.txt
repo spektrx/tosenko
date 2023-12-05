@@ -1,0 +1,14 @@
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\bin\Debug\net7.0\symbols.exe
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\bin\Debug\net7.0\symbols.deps.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\bin\Debug\net7.0\symbols.runtimeconfig.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\bin\Debug\net7.0\symbols.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\bin\Debug\net7.0\symbols.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\refint\symbols.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\symbols.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\5 пара\symbols\obj\Debug\net7.0\ref\symbols.dll

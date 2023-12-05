@@ -1,0 +1,14 @@
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\bin\Debug\net7.0\for_zero_count.exe
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\bin\Debug\net7.0\for_zero_count.deps.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\bin\Debug\net7.0\for_zero_count.runtimeconfig.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\bin\Debug\net7.0\for_zero_count.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\bin\Debug\net7.0\for_zero_count.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\refint\for_zero_count.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\for_zero_count.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\for_zero_count\obj\Debug\net7.0\ref\for_zero_count.dll

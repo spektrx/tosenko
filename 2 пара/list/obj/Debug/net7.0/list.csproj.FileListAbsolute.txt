@@ -1,0 +1,14 @@
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.AssemblyInfoInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.AssemblyInfo.cs
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\bin\Debug\net7.0\list.exe
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\bin\Debug\net7.0\list.deps.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\bin\Debug\net7.0\list.runtimeconfig.json
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\bin\Debug\net7.0\list.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\bin\Debug\net7.0\list.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\refint\list.dll
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.pdb
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\list.genruntimeconfig.cache
+C:\Users\фвьшт\Desktop\3  курс\Тосенко\2 пара\list\obj\Debug\net7.0\ref\list.dll
